@@ -119,7 +119,9 @@ RESPONSIVE
         padding: 16px 0 0 0;
         margin: 35px 12px;
     }
-    #layer{display: none;}
+    #layer{
+        background-color: rgba(0, 0, 0, .5);
+    }
     .timer_box h1{ font-size: 28px;}
     h1{ font-size: 36px;}
 }
