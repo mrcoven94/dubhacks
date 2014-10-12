@@ -106,8 +106,13 @@ RESPONSIVE
         border-radius: 20px;
         margin-bottom: 25px;
     }
-
-
+    #slider{display: inline;}
+    img { 
+                display: inline; 
+            }
+            img.smallscreen { 
+                display: inline; 
+            }
 }
 @media only screen and (max-width: 740px) {
     .timer_box{
